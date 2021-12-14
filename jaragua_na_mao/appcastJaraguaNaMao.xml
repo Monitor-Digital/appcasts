@@ -3,10 +3,10 @@
     <channel>
         <title>Jaraguá na Mão</title>
         <item>
-            <title>Versão 2.2.0</title>
+            <title>Versão 2.2.10</title>
             <description>Realizamos algumas melhorias e exterminamos bugs desagradáveis.</description>
             <pubDate>Mon, 13 Dec 2021 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=br.com.monitor.facilitatubaraoNovo" sparkle:version="2.2.0" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=br.com.monitor.facilitatubaraoNovo" sparkle:version="2.2.10" sparkle:os="android" />
         </item>
     </channel>
 </rss>
